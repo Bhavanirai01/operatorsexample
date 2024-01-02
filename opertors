@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int a=20;
+    int b=10;
+    float c;
+    additionprogram(a,b);
+    subtractionprogram(a,b);
+    //multiplicationprogram(a,b);
+    divisionprogram(a,b);
+    modulusprogram(a,b);
+    greaterprogram(a,b);
